@@ -1,1 +1,2 @@
-#biblio-raspi
+# biblio-raspi
+Biblioteca digital con Raspberry Pi
