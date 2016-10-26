@@ -1,7 +1,7 @@
 # biblio-raspi
 Biblioteca digital con Raspberry Pi
 
-Proyecto basado en COPS. Servidor Web (PHP) con los libros electrónicos de gestionados por Calibre.
+Proyecto basado en COPS. Servidor Web (PHP) con los libros electrónicos gestionados por Calibre.
 
 http://blog.slucas.fr/en/oss/calibre-opds-php-server
 
